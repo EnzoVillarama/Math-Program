@@ -58,15 +58,9 @@ def convert_base(num, n):
 
 
 def factorial(number):
-<<<<<<< HEAD
-    
+
    if number == 0:
        return number
    
    else:
        return number * factorial(number - 1)
-=======
-
-    
-    
->>>>>>> refs/heads/master
