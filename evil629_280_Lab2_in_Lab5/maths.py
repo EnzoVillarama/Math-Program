@@ -65,4 +65,3 @@ def factorial(number):
    else:
        return number * factorial(number - 1)
    
-   LOL
