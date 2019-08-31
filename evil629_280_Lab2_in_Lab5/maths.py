@@ -57,5 +57,23 @@ def convert_base(num, n):
     return new_num_string
 
 
+def factorial(number):
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
