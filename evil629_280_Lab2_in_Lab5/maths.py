@@ -62,10 +62,7 @@ def factorial(number):
     if number == 0:
         return number
     
-    else:
+    else: 
         return number * factorial(number - 1)
-        
-
-
     
     
